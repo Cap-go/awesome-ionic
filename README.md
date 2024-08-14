@@ -38,6 +38,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 - [Books](#books)
 - [Boilerplate/Demo Apps](#boilerplatedemo-apps)
 - [Components](#components)
+  - [Libraries](#libraries)
   - [Animations](#animations)
   - [UI Library](#ui-library)
   - [Menu, Tabs](#menu-tabs)
@@ -159,7 +160,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 ## Tools
 - [Ionic2-vscode](https://marketplace.visualstudio.com/items?itemName=jgw9617.ionic2-vscode)
 - [Vim-ionic2](https://github.com/akz92/vim-ionic2)
-- [Ionic Vetur Intellisense](https://github.com/moduslabs/ionic/tree/master/packages/ionic-vetur) - Vetur support for Ionic Components for tag and attribute autocompletion.
+- [Capacitor safe area simulator](https://chromewebstore.google.com/detail/capacitor-safe-area-simul/ddaaodgcccedhjbjeollookhompnlfhi) - Chrome extension to simulate safe area in the browser, it support Ionic, Knsta UI and Tailwind Capacitor.
 
 ## Video Tutorials
 - [Build a Todo App from Scratch with Ionic](http://www.joshmorony.com/build-a-todo-app-from-scratch-with-ionic-2-video-tutorial/)
@@ -204,6 +205,10 @@ Ionic is an open-source mobile application framework that makes it easy to build
 - [Ionic 6 Capacitor Full App Starter](https://store.enappd.com/product/capacitor-full-app-with-ionic-angular/)
 
 ## Components
+
+### Libraries
+- [Capacitor Tailwind](https://github.com/Cap-go/tailwind-capacitor) - A Tailwind CSS plugin for Capacitor.
+- [Ionic Blocks](https://ionicblocks.com/) - A collection of free and premium Ionic components.
 
 ### Animations
 - [Lottie Animation](https://github.com/chenqingspring/ng-lottie) 
