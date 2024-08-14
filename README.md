@@ -172,12 +172,11 @@ Ionic is an open-source mobile application framework that makes it easy to build
 - [Ionic Blueprints](https://www.packtpub.com/web-development/ionic-2-blueprints)
 - [Hybrid Mobile Development with Ionic](https://www.packtpub.com/application-development/hybrid-mobile-development-ionic)
 
-## Boilerplate/Demo Apps
+## Boilerplate/Demo Apps 
 - [Ionic 4 Full Starter App and PWA](https://ionicthemes.com/product/ionic4-full-starter-app)
 - [Ionic 3 Starter App Template](https://ionicthemes.com/product/ion2fullapp-full-ionic2-app-template-elite-version)
-- [Ion2FullApp - Ionic 3 Template](https://ionicthemes.com/product/ion2fullapp-full-ionic2-app-template)
+- [Ion2FullApp - Ionic 3 Template](https://ionicthemes.com/templates/ion2fullapp-full-ionic2-app-template)
 - [Ionic Boilerplate](https://github.com/marcoturi/ionic-boilerplate)
-- [Redux](https://github.com/janjarfalk/ionic2-angular2-ts-redux-boilerplate)
 - [Cordova File Transfer](https://github.com/dsgriffin/ionic-2-file-transfer-example)
 - [Update your App](https://github.com/NextFaze/ionic-manup)
 - [NFC Demo](https://github.com/RedFroggy/ionic2-nfc-app)
