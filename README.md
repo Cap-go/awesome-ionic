@@ -232,7 +232,8 @@ Ionic is an open-source mobile application framework that makes it easy to build
 - [Form Generator based on JSON](https://github.com/makinacorpus/angular2-schema-form) 
 - [Dynamic Forms](https://github.com/udos86/ng2-dynamic-forms/) 
 - [Form Builder](https://github.com/rohitg7/ionic2-form-builder) 
-- [Sidemenu tabs](https://github.com/seanmavley/ionic2-sidemenu-tabs) 
+- [Sidemenu tabs](https://github.com/seanmavley/ionic2-sidemenu-tabs)
+- [Selectable](https://github.com/eakoriakin/ionic-selectable)
 
 ### Input - Date/Calendar
 - [Calendar](https://github.com/twinssbc/Ionic2-Calendar) 
