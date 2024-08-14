@@ -1,0 +1,11 @@
+{
+     "httpHeaders": [
+    {
+      "urls": ["https://www.udemy.com/", "https://github.com/", "https://guides.github.com/", "https://help.github.com/", "https://docs.github.com/"],
+      "headers": {
+        "Accept-Encoding": "zstd, br, gzip, deflate",
+         "User-Agent": "Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.102 Safari/537.36",
+      }
+    }
+  ]
+}
