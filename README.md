@@ -167,6 +167,7 @@ An "awesome" list of the Ionic resources
 * [Ionic 4 Google login with Firebase](https://github.com/enappd/Ionic-4-google-auth) ![](v4.png) [NEW]
 * [Translation in Ionic 4 - Internationalization and localization](https://github.com/enappd/ionic4-i18n) ![](v4.png) [NEW]
 * [Ionic 4 Free chat themes](https://store.enappd.com/product/free-chat-themes-ionic4/) ![](v4.png) [NEW]
+* [Ionic Timer App](https://github.com/imjohnbo/ionic2-timer)
 
 #### Contribute
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
