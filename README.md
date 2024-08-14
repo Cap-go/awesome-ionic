@@ -60,11 +60,10 @@ Ionic is an open-source mobile application framework that makes it easy to build
 ## Official Resources
 - [Site](http://ionicframework.com/)
 - [Blog](http://blog.ionic.io/)
-- [Documentation](http://ionicframework.com/docs/v2/)
-- [Getting Started Guide](http://ionicframework.com/docs/v2/getting-started/)
+- [Documentation](https://ionicframework.com/docs)
+- [Getting Started Guide](https://ionicframework.com/docs/developing/starting)
 - [Ionic Native](https://github.com/driftyco/ionic-native/)
 - [Community Forum](http://forum.ionicframework.com/)
-- [Ionic IRC](http://webchat.freenode.net/?randomnick=1&channels=%23ionic&uio=d4)
 - [Ionic YouTube Channel](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)
 - [Showcase](http://showcase.ionicframework.com/)
 - [GitHub Repo](https://github.com/ionic-team/ionic-framework)
@@ -76,7 +75,6 @@ Ionic is an open-source mobile application framework that makes it easy to build
 - [How to Convert an Ionic 1 Application to Ionic](http://www.joshmorony.com/how-to-convert-an-ionic-1-application-to-ionic-2/)
 - [A Simple Guide to Navigation in Ionic](http://www.joshmorony.com/a-simple-guide-to-navigation-in-ionic-2/)
 - [10 Minutes with Ionic: Adding Pages and Navigation](http://blog.ionic.io/10-minutes-with-ionic-2-adding-pages-and-navigation/)
-- [How To Update Your Application Project and CLI](http://www.gajotres.net/ionic-2-how-to-update-your-application-project-and-cli/)
 - [How to Create a Data Model in Ionic](http://www.joshmorony.com/how-to-create-a-data-model-in-ionic-2/)
 - [Ionic and External Libraries](http://mhartington.io/post/ionic2-external-libraries/)
 - [Understanding Zones and Change Detection in Ionic & Angular 2](http://www.joshmorony.com/understanding-zones-and-change-detection-in-ionic-2-angular-2/)
@@ -114,10 +112,8 @@ Ionic is an open-source mobile application framework that makes it easy to build
 - [Anonymous Login in Ionic 4 App using Firebase](https://enappd.com/blog/firebase-anonymous-login-in-ionic-4/37)
 - [Basic Email Login in Ionic 4 App using Firebase](https://enappd.com/blog/email-authentication-with-firebase-in-ionic-4/38)
 - [Add Touch ID Authentication To An Ionic Mobile App](https://www.thepolyglotdeveloper.com/2016/03/add-touch-id-authentication-ionic-2-mobile-app/)
-- [Successful OAuth Social Login with Firebase](http://www.gajotres.net/ionic-2-succesfull-oauth-social-login-with-firebase/)
 - [Using An Oauth 2.0 Service Within An Ionic Mobile App](https://www.thepolyglotdeveloper.com/2016/01/using-an-oauth-2-0-service-within-an-ionic-2-mobile-app/)
 - [Ionic and Auth0](http://blog.ionic.io/ionic-2-and-auth0/)
-- [Handling a Simple User Authorization](http://www.gajotres.net/ionic-2-handling-a-simple-user-authorization/)
 - [Authenticate Ionic with WordPress](https://auth0.com/authenticate/ionic2/wordpress)
 
 ## Unit Testing
@@ -128,12 +124,10 @@ Ionic is an open-source mobile application framework that makes it easy to build
 - [Playing music in Ionic 4 apps](https://enappd.com/blog/spotify-like-music-in-ionic-4-apps/48)
 - [How to implement health plugin - Pedometer in Ionic 4](https://enappd.com/blog/best-fitness-plugins-for-ionic-4-how-to-use-pedometer/15)
 - [Using Cordova Plugins in Ionic with Ionic Native](http://www.joshmorony.com/using-cordova-plugins-in-ionic-2-with-ionic-native/)
-- [How to Work With Cordova Plugins](http://www.gajotres.net/ionic-2-how-to-use-cordova-plugins/)
 - [10 Minutes with Ionic: Using the Camera with Ionic Native](http://blog.ionic.io/10-minutes-with-ionic-2-using-the-camera-with-ionic-native/)
 - [Determine Network Availability](https://www.thepolyglotdeveloper.com/2016/01/determine-network-availability-in-an-ionic-2-mobile-app/)
 - [Monetize With Google Admob In An Ionic Mobile App](https://www.thepolyglotdeveloper.com/2016/02/monetize-google-admob-ionic-2-mobile-app/)
 - [Show Native Toast Notifications In An Ionic Mobile App](https://www.thepolyglotdeveloper.com/2016/01/show-native-toast-notifications-in-an-ionic-2-mobile-app/)
-- [Having Fun With Cordova Geolocation Plugin](http://www.gajotres.net/ionic-2-having-fun-with-cordova-geolocation-plugin/)
 - [Use SQLite In Ionic Instead Of Local Storage](https://www.thepolyglotdeveloper.com/2015/12/use-sqlite-in-ionic-2-instead-of-local-storage/)
 - [Launch Websites With Ionic Using The InAppBrowser](https://www.thepolyglotdeveloper.com/2016/01/launch-websites-with-ionic-2-using-the-inappbrowser/)
 - [Add Barcode Scanning Functionality To Your Ionic App](https://www.thepolyglotdeveloper.com/2016/02/add-barcode-scanning-functionality-to-your-ionic-2-app/)
@@ -154,14 +148,11 @@ Ionic is an open-source mobile application framework that makes it easy to build
 ## Backend as a Service
 - [10 Minutes with Ionic: Calling an API](http://blog.ionic.io/10-minutes-with-ionic-2-calling-an-api/)
 - [Using Http to Fetch Remote Data from a Server in Ionic](http://www.joshmorony.com/using-http-to-fetch-remote-data-from-a-server-in-ionic-2/)
-- [Making REST HTTP Requests Like a Pro](http://www.gajotres.net/ionic-2-making-rest-http-requests-like-a-pro/)
 - [Posting data from Ionic app to a PHP server](http://www.nikola-breznjak.com/blog/ionic2/posting-data-from-ionic-2-app/)
 - [Make HTTP Requests In An Ionic Android And iOS App](https://www.thepolyglotdeveloper.com/2016/01/make-http-requests-in-an-ionic-2-android-and-ios-app/)
-- [Integrating Firebase with AngularFire2 into AngularJS & Ionic2](http://www.clearlyinnovative.com/integrating-firebase-with-angularfire2-into-angularjs-ionic2)
 
 ## i18n & l10n
 - [Internationalize and Localize Your Ionic 4 App](https://enappd.com/blog/how-to-translate-in-ionic-4-globalization-internationalization-and-localization/11)
-- [Internationalize and Localize Your App With Angular 2](http://www.gajotres.net/ionic-2-internationalize-and-localize-your-app-with-angular-2/)
 - [attranslate](https://github.com/fkirc/attranslate) - Semi-automated translation of JSON and other resource files.
 
 ## Tools
@@ -170,10 +161,8 @@ Ionic is an open-source mobile application framework that makes it easy to build
 - [Ionic Vetur Intellisense](https://github.com/moduslabs/ionic/tree/master/packages/ionic-vetur) - Vetur support for Ionic Components for tag and attribute autocompletion.
 
 ## Video Tutorials
-- [Ionic Quickstart](https://www.udemy.com/ionic-2-quickstart/)
 - [Build a Todo App from Scratch with Ionic](http://www.joshmorony.com/build-a-todo-app-from-scratch-with-ionic-2-video-tutorial/)
 - [Ionic: How to Use Google Maps & Geolocation](http://www.joshmorony.com/ionic-2-how-to-use-google-maps-geolocation-video-tutorial/)
-- [Ionic in One Hour](http://courses.devdactic.com/courses/ionic-2-in-one-hour?product_id=104238)
 - [Build a Custom Flash Card Component in Ionic](https://www.youtube.com/watch?v=BKFQKywl_GM)
 - [Hacking CSS in Ionic](https://www.youtube.com/watch?v=sXFmkdhOEVc)
 - [Learn Ionic 3 From Scratch](https://www.youtube.com/watch?v=JcEGTektejA&list=PLYxzS__5yYQng-XnJhB21Jc7NW1OIaqct)
@@ -197,6 +186,10 @@ Ionic is an open-source mobile application framework that makes it easy to build
 - [Ionic 2](https://github.com/marcoturi/ionic2-boilerplate)
 - [Ionic 2 Advanced Components](https://github.com/yannbf/ionic2-components)
 - [OCR Scan App](https://github.com/matiastucci/ionic-ocr-example)
+- [Ionic 4 Payment Gateway Starter - Stripe](https://store.enappd.com/product/ionic-4-stripe-payment-starter/)
+- [Ionic 4 Payment Gateway Starter - Paypal](https://store.enappd.com/product/ionic-4-paypal-payment-starter/)
+- [Ionic 4 Payment Gateway Starter - Razorpay](https://store.enappd.com/product/ionic-4-razorpay-payment-starter/)
+- [Ionic 4 Payment Gateway Starter - Apple Pay](https://store.enappd.com/product/ionic-4-apple-pay-starter/)
 - [Ionic 5 Complete App and PWA Starter](https://store.enappd.com/product/ionic-4-full-app/)
 - [Ionic 5 Complete Taxi Booking Platform Starter](https://store.enappd.com/product/taxi-booking-complete-platform/)
 - [Ionic 5 Grocery Shopping Starter with Admin Panel](https://store.enappd.com/product/ionic-4-grocery-complete-platform-app-and-admin-dashboard/)
@@ -204,7 +197,6 @@ Ionic is an open-source mobile application framework that makes it easy to build
 - [Ionic 5 Spotify Starter](https://store.enappd.com/product/ionic-4-spotify-app-starter/)
 - [Ionic 5 Food Delivery App Starter](https://store.enappd.com/product/ionic-4-food-ordering-app-starter/)
 - [Ionic 5 Carpooling App Starter](https://store.enappd.com/product/carpool-app-starter/)
-- [Ionic 5 Payment Gateway Starter - Stripe, Paypal, Razorpay and Apple Pay](https://store.enappd.com/product/ionic-4-full-payment-app-starter/)
 - [Ionic 5 Google Vision Starter](https://store.enappd.com/product/ionic-4-google-vision-starter/)
 - [Ionic 5 Firebase Full App Starter](https://store.enappd.com/product/ionic-4-firebase-full-app-starter/)
 - [Ionic 6 vue Firebase Full App Starter](https://store.enappd.com/product/ionic-vue-firebase-full-app/)
@@ -272,7 +264,6 @@ Ionic is an open-source mobile application framework that makes it easy to build
 
 ### Video/Audio
 - [Video Editor](https://github.com/rossmartin/video-editor-ionic2) 
-- [Audio Recorder](https://github.com/tracktunes/ionic-recorder) 
 - [Simple Audioplayer](https://github.com/arielfaur/ionic-audio) 
 
 ### Keyboards
@@ -310,10 +301,8 @@ Ionic is an open-source mobile application framework that makes it easy to build
 - [Ionic 4 Razorpay Payment Integration](https://github.com/enappd/ionic4-razorpay)
 - [Ionic 4 Twitter login with Firebase](https://github.com/enappd/Ionic-4-Twitter-auth)
 - [Ionic 4 Facebook login with Firebase](https://github.com/enappd/ionic4-facebookAuth)
-- [Ionic 4 Google login with Firebase](https://github.com/enappd/Ionic-4-google-auth)
 - [Translation in Ionic 4 - Internationalization and localization](https://github.com/enappd/ionic4-i18n)
 - [Ionic 4 Free chat themes](https://store.enappd.com/product/free-chat-themes-ionic4/)
-- [Ionic Timer App](https://github.com/imjohnbo/ionic2-timer)
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
