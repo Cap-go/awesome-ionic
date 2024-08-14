@@ -52,6 +52,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
   - [Frames](#frames)
 - [Open Source Projects](#open-source-projects)
 - [Contribute](#contribute)
+- [Author](#author)
 
 ## Current Ionic version
 [![npm version](https://badge.fury.io/js/@ionic%2Fangular.svg)](https://badge.fury.io/js/@ionic%2Fangular)
