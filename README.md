@@ -26,7 +26,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 - [Official Resources](#official-resources)
 - [Ionic Fundamentals](#ionic-fundamentals)
 - [Theming](#theming)
-- [Components](#components)
+- [Components tutorials](#components-tutorials)
 - [Authentication](#authentication)
 - [Unit Testing](#unit-testing)
 - [Ionic Native / Cordova Plugins](#ionic-native--cordova-plugins)
@@ -37,6 +37,19 @@ Ionic is an open-source mobile application framework that makes it easy to build
 - [Video Tutorials](#video-tutorials)
 - [Books](#books)
 - [Boilerplate/Demo Apps](#boilerplatedemo-apps)
+- [Components](#components)
+  - [Animations](#animations)
+  - [UI Library](#ui-library)
+  - [Menu, Tabs](#menu-tabs)
+  - [Form / Input](#form--input)
+  - [Input - Date/Calendar](#input---datecalendar)
+  - [Lists/Table](#liststable)
+  - [Images](#images)
+  - [Charts/Diagram](#chartsdiagram)
+  - [Video/Audio](#videoaudio)
+  - [Keyboards](#keyboards)
+  - [Dialog](#dialog)
+  - [Frames](#frames)
 - [Open Source Projects](#open-source-projects)
 - [Contribute](#contribute)
 
@@ -85,7 +98,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 - [A List of Common CSS Utility Attributes in Ionic](http://www.joshmorony.com/a-list-of-common-css-utility-attributes-in-ionic-2/)
 - [5 Animation Packages You Can Immediately Use Inside Your Ionic App](https://devdactic.com/5-animation-packages-ionic/)
 
-## Components
+## Components tutorials
 - [How to Create a Sliding Delete Button for Lists](http://www.joshmorony.com/ionic-2-how-to-create-a-sliding-delete-button-for-lists/)
 - [Creating a Sliding Introduction Component in Ionic](http://www.joshmorony.com/creating-a-sliding-introduction-component-in-ionic-2/)
 - [How to Create a Custom Loading Component in Ionic](http://www.joshmorony.com/how-to-create-a-custom-loading-component-in-ionic-2/)
@@ -183,6 +196,90 @@ Ionic is an open-source mobile application framework that makes it easy to build
 - [Ionic 2](https://github.com/marcoturi/ionic2-boilerplate)
 - [Ionic 2 Advanced Components](https://github.com/yannbf/ionic2-components)
 - [OCR Scan App](https://github.com/matiastucci/ionic-ocr-example)
+- [Ionic 5 Complete App and PWA Starter](https://store.enappd.com/product/ionic-4-full-app/)
+- [Ionic 5 Complete Taxi Booking Platform Starter](https://store.enappd.com/product/taxi-booking-complete-platform/)
+- [Ionic 5 Grocery Shopping Starter with Admin Panel](https://store.enappd.com/product/ionic-4-grocery-complete-platform-app-and-admin-dashboard/)
+- [Ionic 5 Tinder Starter](https://store.enappd.com/product/dating-app-starter-ionic4-tinder-clone/)
+- [Ionic 5 Spotify Starter](https://store.enappd.com/product/ionic-4-spotify-app-starter/)
+- [Ionic 5 Food Delivery App Starter](https://store.enappd.com/product/ionic-4-food-ordering-app-starter/)
+- [Ionic 5 Carpooling App Starter](https://store.enappd.com/product/carpool-app-starter/)
+- [Ionic 5 Payment Gateway Starter - Stripe, Paypal, Razorpay and Apple Pay](https://store.enappd.com/product/ionic-4-full-payment-app-starter/)
+- [Ionic 5 Google Vision Starter](https://store.enappd.com/product/ionic-4-google-vision-starter/)
+- [Ionic 5 Firebase Full App Starter](https://store.enappd.com/product/ionic-4-firebase-full-app-starter/)
+- [Ionic 6 vue Firebase Full App Starter](https://store.enappd.com/product/ionic-vue-firebase-full-app/)
+- [Ionic 6 React Full App Starter](https://store.enappd.com/product/ionic-react-full-app-capacitor/)
+- [Ionic 6 Capacitor Full App Starter](https://store.enappd.com/product/capacitor-full-app-with-ionic-angular/)
+
+## Components
+
+### Animations
+- [Lottie Animation](https://github.com/chenqingspring/ng-lottie) 
+- [Lottie Animation](https://github.com/fivethree-team/lottie) 
+
+### UI Library
+- [Ionic 4 UI Component Library](https://github.com/fivethree-team/ionic-4-components) 
+
+### Menu, Tabs
+- [Scrollabel Tabs](https://github.com/SinoThomas/Ionic2-ScrollableTabs) 
+- [Circular Tabs](https://github.com/SinoThomas/Ionic2-CircularTabs) 
+- [Fab Toolbar](https://github.com/ekhmoi/fab-toolbar) 
+- [Multi Level Sidemenu](https://github.com/sebaferreras/Ionic2-MultiLevelSideMenu) 
+- [Popover Sidemenu](https://github.com/philipbrack/ionic2-menu-alternative-popover) 
+- [Drop down Title](https://github.com/Mohd-PH/ionic-drop-down-title) 
+
+### Form / Input
+- [Autocomplete](https://github.com/kadoshms/ionic2-autocomplete) 
+- [Form Generator based on JSON](https://github.com/makinacorpus/angular2-schema-form) 
+- [Dynamic Forms](https://github.com/udos86/ng2-dynamic-forms/) 
+- [Form Builder](https://github.com/rohitg7/ionic2-form-builder) 
+- [Sidemenu tabs](https://github.com/seanmavley/ionic2-sidemenu-tabs) 
+
+### Input - Date/Calendar
+- [Calendar](https://github.com/twinssbc/Ionic2-Calendar) 
+- [Calendar](https://github.com/alexandretok/easy-ionic2-calendar) 
+- [Calendar](https://github.com/redpandatronicsuk/ionic2calendar) 
+- [Calendar](https://github.com/mattlewis92/angular-calendar)  (very powerful)
+- [Calendar - Fullcalendar](https://github.com/nekken/ng2-fullcalendar) 
+- [Datepicker](https://github.com/misha130/datepicker-ionic2) 
+- [Datepicker (selectable range dates calendar)](https://github.com/HsuanXyz/ion2-calendar) 
+- [Datepicker](https://github.com/rajeshwarpatlolla/ionic2-datepicker) 
+- [Rating](https://github.com/andrucz/ionic2-rating) 
+- [Inputfield Mask](https://github.com/text-mask/text-mask)
+
+### Lists/Table
+- [Sortable/Filter Tables](https://github.com/valor-software/ng2-table) 
+- [Smart table (sorting, filtering)](https://github.com/akveo/ng2-smart-table) 
+- [Flexible and Light Table](https://github.com/swimlane/ngx-datatable) 
+
+### Images
+- [Signatur](https://github.com/wulfsolter/angular2-signaturepad) - Works perfect with Ionic. 
+- [Image Fallback](https://github.com/VadimDez/ng2-img-fallback) 
+- [Lazy Load](https://github.com/tjoskar/ng2-lazyload-image)  
+- [Image Loader](https://github.com/zyramedia/ionic-image-loader) 
+- [Facebook Gallery](https://github.com/skyfloyd/ionic2-fb-gallery) 
+- [Image Viewer](https://github.com/Riron/ionic-img-viewer) 
+- [Gallery Modal](https://github.com/nikini/ionic-gallery-modal) 
+- [Image Zoom](https://github.com/brtnshrdr/angular2-image-zoom) 
+
+### Charts/Diagram
+- [Charts](https://github.com/valor-software/ng2-charts) 
+- [D3 Service](https://github.com/tomwanzek/d3-ng2-service) 
+- [D3 Barchart](https://github.com/keathmilligan/angular2-d3-v4) 
+- [D3 Line/Bar/Pie Charts](https://github.com/datencia/d3js-angular2-example) 
+
+### Video/Audio
+- [Video Editor](https://github.com/rossmartin/video-editor-ionic2) 
+- [Audio Recorder](https://github.com/tracktunes/ionic-recorder) 
+- [Simple Audioplayer](https://github.com/arielfaur/ionic-audio) 
+
+### Keyboards
+- [Digit Keyboard](https://github.com/skol-pro/ion-digit-keyboard-v2) 
+
+### Dialog
+- [Dialogbox with Counter](https://github.com/HsuanXyz/ionic2-extend-alert) 
+
+### Frames
+- [ng Lightning (for Salesforce Apps)](https://github.com/ng-lightning/ng-lightning) 
 
 ## Open Source Projects
 - [Ionic Conference App](https://github.com/driftyco/ionic-conference-app)
