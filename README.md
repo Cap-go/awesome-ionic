@@ -1,7 +1,7 @@
 # Awesome Ionic [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 <div align="center">
-	<img width="100%" src="https://raw.githubusercontent.com/Cap-go/awesome-ionic/main/awesome_ionic.webp" alt="Awesome ionic">
+	<img width="100%" src="https://raw.githubusercontent.com/Cap-go/awesome-ionic/main/awesome_ionic.png" alt="Awesome ionic">
 	<br>
 </div>
 <br/>
