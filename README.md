@@ -307,3 +307,6 @@ Ionic is an open-source mobile application framework that makes it easy to build
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
+## Author
+
+<a href="https://capgo.app/">Capgo — Live updates for capacitor</a>
