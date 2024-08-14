@@ -67,7 +67,8 @@ Ionic is an open-source mobile application framework that makes it easy to build
 - [Ionic IRC](http://webchat.freenode.net/?randomnick=1&channels=%23ionic&uio=d4)
 - [Ionic YouTube Channel](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)
 - [Showcase](http://showcase.ionicframework.com/)
-- [GitHub Repo](https://github.com/driftyco/ionic/)
+- [GitHub Repo](https://github.com/ionic-team/ionic-framework)
+- [Awesome Capacitor](https://github.com/riderx/awesome-capacitor)
 
 ## Ionic Fundamentals
 - [Beginners Guide to Getting Started with Ionic](http://www.joshmorony.com/beginners-guide-to-getting-started-with-ionic-2/)
