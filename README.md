@@ -17,8 +17,6 @@ Ionic is an open-source mobile application framework that makes it easy to build
 </div>
 <br>
 
-<br>
-
 ## Contents
 
 - [Current Ionic version](#current-ionic-version)
