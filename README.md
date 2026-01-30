@@ -13,7 +13,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 </div>
 <div align="center">
   <h2><a href="https://capgo.app/?ref=awesomelist_ionic"> ➡️ Get Instant updates for your Capacitor App with Capgo 🚀</a></h2>
-  <h2><a href="https://capgo.app/consulting/?ref=awesomelist_ionic"> Fix your annoying bug now, Hire a Capacitor expert 💪</a></h2>
+  <h2><a href="https://capgo.app/premium-support/"> Fix your annoying bug now, Hire a Capacitor expert 💪</a></h2>
 </div>
 <br>
 
@@ -158,10 +158,10 @@ Ionic is an open-source mobile application framework that makes it easy to build
 - [Ionic2-vscode](https://marketplace.visualstudio.com/items?itemName=jgw9617.ionic2-vscode)
 - [Vim-ionic2](https://github.com/akz92/vim-ionic2)
 - [Capacitor safe area simulator](https://chromewebstore.google.com/detail/capacitor-safe-area-simul/ddaaodgcccedhjbjeollookhompnlfhi) - Chrome extension to simulate safe area in the browser, it support Ionic, Knsta UI and Tailwind Capacitor.
-- [Capgo Skills](https://capgo.app/skills/) - Test your Ionic/Capacitor skills with interactive challenges
-- [Capgo Security Scanner](https://capgo.app/security-scanner/) - Scan your Capacitor app for security vulnerabilities
-- [Capgo Semver Tester](https://capgo.app/semver_tester/) - Test semantic versioning compatibility for Capacitor plugins
-- [AASA Tester](https://aasa-tester.capgo.app) - Test Apple App Site Association files for iOS Universal Links
+- [Capgo Skills](https://capgo.app/skills/) - Test your Ionic/Capacitor skills with interactive challenges.
+- [Capgo Security Scanner](https://capgo.app/security-scanner/) - Scan your Capacitor app for security vulnerabilities.
+- [Capgo Semver Tester](https://capgo.app/semver_tester/) - Test semantic versioning compatibility for Capacitor plugins.
+- [AASA Tester](https://aasa-tester.capgo.app) - Test Apple App Site Association files for iOS Universal Links.
 
 ## Video Tutorials
 - [Build a Todo App from Scratch with Ionic](http://www.joshmorony.com/build-a-todo-app-from-scratch-with-ionic-2-video-tutorial/)
