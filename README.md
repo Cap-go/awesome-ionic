@@ -194,7 +194,6 @@ Ionic is an open-source mobile application framework that makes it easy to build
 - [Ionic 5 Complete Taxi Booking Platform Starter](https://store.enappd.com/product/taxi-booking-complete-platform/)
 - [Ionic 5 Grocery Shopping Starter with Admin Panel](https://store.enappd.com/product/ionic-4-grocery-complete-platform-app-and-admin-dashboard/)
 - [Ionic 5 Tinder Starter](https://store.enappd.com/product/dating-app-starter-ionic4-tinder-clone/)
-- [Ionic 5 Spotify Starter](https://store.enappd.com/product/ionic-4-spotify-app-starter/)
 - [Ionic 5 Food Delivery App Starter](https://store.enappd.com/product/ionic-4-food-ordering-app-starter/)
 
 - [Ionic 6 Capacitor Full App Starter](https://store.enappd.com/product/capacitor-full-app-with-ionic-angular/)
