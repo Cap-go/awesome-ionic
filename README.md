@@ -47,6 +47,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
   - [Charts/Diagram](#chartsdiagram)
   - [Video/Audio](#videoaudio)
   - [Keyboards](#keyboards)
+  - [Icons](#icons)
   - [Dialog](#dialog)
   - [Frames](#frames)
 - [Open Source Projects](#open-source-projects)
@@ -364,6 +365,9 @@ Ionic is an open-source mobile application framework that makes it easy to build
 
 ### Keyboards
 - [Digit Keyboard](https://github.com/skol-pro/ion-digit-keyboard-v2) 
+
+### Icons
+- [@robsonos/ionic-mdi](https://www.npmjs.com/package/@robsonos/ionic-mdi) - Material Design Icons for the Ionic `addIcons` function.
 
 ### Dialog
 - [Dialogbox with Counter](https://github.com/HsuanXyz/ionic2-extend-alert) 
