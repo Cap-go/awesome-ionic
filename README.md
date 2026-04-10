@@ -261,6 +261,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 - [Capgo Semver Tester](https://capgo.app/semver_tester/) - Test semantic versioning compatibility for Capacitor plugins.
 - [AASA Tester](https://aasa-tester.capgo.app) - Test Apple App Site Association files for iOS Universal Links.
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=Cap-go_awesome-ionic) - Follow developers on GitHub and get a feed of what they star and build.
 ## Video Tutorials
 - [Build a Todo App from Scratch with Ionic](http://www.joshmorony.com/build-a-todo-app-from-scratch-with-ionic-2-video-tutorial/)
 - [Ionic: How to Use Google Maps & Geolocation](http://www.joshmorony.com/ionic-2-how-to-use-google-maps-geolocation-video-tutorial/)
