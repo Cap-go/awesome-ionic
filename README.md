@@ -11,6 +11,9 @@
 Ionic is an open-source mobile application framework that makes it easy to build cross-platform mobile apps with web technologies.
 <br/>
 </div>
+<p align='center'>
+  <img src='https://capgo.app/readme-banner.svg?repo=Cap-go/awesome-ionic' alt='Capgo - Instant updates for capacitor'/>
+</p>
 <div align="center">
   <h2><a href="https://capgo.app/?ref=awesomelist_ionic"> ➡️ Get Instant updates for your Capacitor App with Capgo 🚀</a></h2>
   <h2><a href="https://capgo.app/premium-support/"> Fix your annoying bug now, Hire a Capacitor expert 💪</a></h2>
