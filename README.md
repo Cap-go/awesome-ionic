@@ -259,7 +259,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 - [capacitor-supabase](https://github.com/Cap-go/capacitor-supabase) - Native Supabase authentication, JWT access, and basic database helpers for Capacitor.
 - [capacitor-textinteraction](https://github.com/Cap-go/capacitor-textinteraction) - Capacitor plugin to toggle text interaction in iOS apps.
 - [capacitor-transitions](https://github.com/Cap-go/capacitor-transitions) - Framework-agnostic page transitions for Capacitor apps. iOS-style navigation without opinions.
-- [capacitor-twilio-voice](https://github.com/Cap-go/capacitor-twilio-voice) - Capacitor plugin to create and answer calls with twill voice SDK.
+- [capacitor-twilio-voice](https://github.com/Cap-go/capacitor-twilio-voice) - Capacitor plugin to create and answer calls with Twilio Voice SDK.
 - [capacitor-updater](https://github.com/Cap-go/capacitor-updater) - Capacitor plugin for Instant updates: Ship updates, fixes, changes, and features within minutes.
 - [capacitor-uploader](https://github.com/Cap-go/capacitor-uploader) - Capacitor plugin to upload file in native layer.
 - [capacitor-uwb](https://github.com/Cap-go/capacitor-uwb) - Capacitor plugin for Ultra-Wideband (UWB) ranging on iOS and Android.

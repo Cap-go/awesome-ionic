@@ -1,4 +1,5 @@
 ignore:
   urls:
     - https://www.thepolyglotdeveloper.com/*
-    - https://www.npmjs.com/package/*
+    - https://www.npmjs.com/package/@ionic/angular
+    - https://www.npmjs.com/package/@robsonos/ionic-mdi
