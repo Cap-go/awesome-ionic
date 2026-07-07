@@ -267,6 +267,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 - [Build a Custom Flash Card Component in Ionic](https://www.youtube.com/watch?v=BKFQKywl_GM)
 - [Hacking CSS in Ionic](https://www.youtube.com/watch?v=sXFmkdhOEVc)
 - [Learn Ionic 3 From Scratch](https://www.youtube.com/watch?v=JcEGTektejA&list=PLYxzS__5yYQng-XnJhB21Jc7NW1OIaqct)
+- [TutorialSearch](https://tutorialsearch.io/browse/mobile-development/ionic-framework) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 
 ## Books
 - [Building Mobile Apps with Ionic](https://www.joshmorony.com/building-mobile-apps-with-ionic-2/)
