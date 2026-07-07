@@ -298,6 +298,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 - [Ionic2-vscode](https://marketplace.visualstudio.com/items?itemName=jgw9617.ionic2-vscode)
 - [Vim-ionic2](https://github.com/akz92/vim-ionic2)
 - [Capacitor safe area simulator](https://chromewebstore.google.com/detail/capacitor-safe-area-simul/ddaaodgcccedhjbjeollookhompnlfhi) - Chrome extension to simulate safe area in the browser, it support Ionic, Knsta UI and Tailwind Capacitor.
+- [Capstart](https://github.com/AdrienADV/capstart) - CLI and starter toolkit for creating Capacitor apps with React, Supabase, and shadcn/ui, or adding Capacitor to existing web framework projects.
 - [Capgo Skills](https://capgo.app/skills/) - Test your Ionic/Capacitor skills with interactive challenges.
 - [Capgo Security Scanner](https://capgo.app/security-scanner/) - Scan your Capacitor app for security vulnerabilities.
 - [Capgo Semver Tester](https://capgo.app/semver_tester/) - Test semantic versioning compatibility for Capacitor plugins.
