@@ -80,7 +80,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 
 ## Capacitor
 
-Ionic apps ship with Capacitor as the native runtime.
+Ionic apps can use Capacitor as a native runtime.
 
 - [Website](https://capacitorjs.com/) - Project homepage.
 - [Documentation](https://capacitorjs.com/docs) - Official docs.
@@ -341,8 +341,8 @@ Ionic apps ship with Capacitor as the native runtime.
 - [Docker](https://github.com/Cap-go/docker-capacitor) - Image for building native apps.
 - [Native Builds](https://capgo.app/native-build/) - Compile and sign iOS and Android binaries in the cloud.
 - [Android Keystore Generator](https://capgo.app/tools/android-keystore-generator/) - Generate Android keystores for app signing in the browser.
-- [iOS Certificate Generator](https://capgo.app/tools/ios-certificate-generator/) - Generate iOS signing certificates in the browser.
-- [iOS UDID Finder](https://capgo.app/tools/ios-udid-finder/) - Find the UDID of an iPhone or iPad.
+- [iOS Certificate Generator](https://capgo.app/tools/ios-certificate-generator/) - Generate an iOS certificate signing request and private key in the browser.
+- [iOS UDID Finder](https://capgo.app/tools/ios-udid-finder/) - Find an iPhone or iPad UDID; device identifiers are sent to the tool backend.
 - [Vite plugin](https://github.com/Cap-go/vite-capacitor) - Keep native platform configs in sync with the Vite dev server URL.
 - [n8n nodes](https://github.com/Cap-go/n8n-nodes-capgo) - Automate live updates and native builds from n8n workflows.
 - [Standard Version](https://github.com/Cap-go/standard-version-for-capacitor) - Automated versioning for apps.
@@ -371,7 +371,7 @@ Tutorials that cover the path from an existing web app to a published mobile app
 - [Transform a PWA into a native app](https://capgo.app/blog/transform-pwa-to-native-app-with-capacitor/) - Package a Progressive Web App for iOS and Android.
 - [Turn a web app into a mobile app](https://capgo.app/blog/how-easy-is-it-to-make-web-app-into-mobile-app-with-capacitor/) - What it takes to wrap a web app and pass store review.
 - [Convert a Lovable app to iOS and Android](https://capgo.app/blog/transform-lovable-dev-app-to-mobile-with-capacitor/) - Export from Lovable, wrap with Capacitor, and ship signed binaries.
-- [Build iOS apps from Windows](https://capgo.app/blog/build-ios-app-from-windows-capacitor-capgo-build/) - Compile, sign, and submit to TestFlight without a Mac.
+- [Build iOS apps from Windows](https://capgo.app/blog/build-ios-app-from-windows-capacitor-capgo-build/) - Compile, sign, and submit to TestFlight without owning a Mac.
 
 ## Books
 - [Building Mobile Apps with Ionic](https://www.joshmorony.com/building-mobile-apps-with-ionic-2/)
@@ -520,7 +520,7 @@ Production apps whose use of Ionic is publicly documented.
 - [DayClocks Agenda](https://ionic.io/resources/case-studies/dayclocks) - Family agenda app that moved from Cordova.
 - [Komed Health](https://ionic.io/resources/case-studies/komed) - Clinical communication app for hospitals.
 - [MyBlock](https://ionic.io/resources/case-studies/hrblock) - Tax preparation app by H&R Block.
-- [Spreekuur.nl](https://ionic.io/resources/case-studies/topicus) - Dutch healthcare consultation app by Topicus.
+- [Spreekuur.nl](https://ionic.io/resources/case-studies/topicus) - A Dutch healthcare consultation app by Topicus.
 - [YesHelp](https://ionic.io/resources/case-studies/yeshelp) - Social assistance app for iOS and Android.
 - [Ionic case studies](https://ionic.io/resources/case-studies) - More case studies published by the Ionic team.
 
@@ -532,8 +532,8 @@ Production apps whose use of Ionic is publicly documented.
 
 ## Freelancers
 
-- [Adrien](https://book.capgo.app/adrien/) - Creator of Capstart and Capgo part-time developer.
-- [Jordan](https://book.capgo.app/jordan/) - Creator of multiple mobile apps and Capgo part-time developer.
+- [Adrien](https://book.capgo.app/adrien/) - Creator of Capstart and a part-time developer at Capgo.
+- [Jordan](https://book.capgo.app/jordan/) - Creator of multiple mobile apps and a part-time developer at Capgo.
 - [Capgo consulting](https://capgo.app/consulting/) - Live updates, native plugins, and Ionic/Capacitor consulting.
 
 ## Contribute
