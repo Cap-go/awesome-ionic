@@ -24,6 +24,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 
 - [Current Ionic version](#current-ionic-version)
 - [Official Resources](#official-resources)
+- [Capacitor](#capacitor)
 - [Ionic Fundamentals](#ionic-fundamentals)
 - [Theming](#theming)
 - [Components tutorials](#components-tutorials)
@@ -36,6 +37,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 - [i18n & l10n](#i18n--l10n)
 - [Tools](#tools)
 - [Video Tutorials](#video-tutorials)
+- [Convert a web app](#convert-a-web-app)
 - [Books](#books)
 - [Boilerplate/Demo Apps](#boilerplatedemo-apps)
 - [Components](#components)
@@ -54,6 +56,9 @@ Ionic is an open-source mobile application framework that makes it easy to build
   - [Dialog](#dialog)
   - [Frames](#frames)
 - [Open Source Projects](#open-source-projects)
+- [Apps built with Ionic](#apps-built-with-ionic)
+- [Community](#community)
+- [Freelancers](#freelancers)
 - [Contribute](#contribute)
 - [Author](#author)
 
@@ -71,7 +76,20 @@ Ionic is an open-source mobile application framework that makes it easy to build
 - [Ionic YouTube Channel](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)
 - [Showcase](http://showcase.ionicframework.com/)
 - [GitHub Repo](https://github.com/ionic-team/ionic-framework)
-- [Awesome Capacitor](https://github.com/riderx/awesome-capacitor)
+- [Community](https://ionicframework.com/community) - Official community hub.
+
+## Capacitor
+
+Ionic apps ship with [Capacitor](https://capacitorjs.com/) as the native runtime.
+
+- [Website](https://capacitorjs.com/) - Project homepage.
+- [Documentation](https://capacitorjs.com/docs) - Official docs.
+- [CLI](https://capacitorjs.com/docs/cli) - Command-line reference.
+- [Plugins](https://capacitorjs.com/docs/plugins) - Official plugin APIs.
+- [Blog](https://capacitorjs.com/blog) - Official blog posts.
+- [Forum](https://forum.ionicframework.com/c/capacitor) - Capacitor category on the Ionic forum.
+- [Repository](https://github.com/ionic-team/capacitor) - Core runtime source.
+- [Awesome Capacitor](https://github.com/riderx/awesome-capacitor) - Curated Capacitor plugins, tools, and guides.
 
 ## Ionic Fundamentals
 - [Beginners Guide to Getting Started with Ionic](http://www.joshmorony.com/beginners-guide-to-getting-started-with-ionic-2/)
@@ -87,10 +105,17 @@ Ionic is an open-source mobile application framework that makes it easy to build
 - [How to Manipulate Data in Ionic: Part 2](http://www.joshmorony.com/how-to-manipulate-data-in-ionic-2-part-2/)
 - [Filtering, Mapping, and Reducing Arrays in Ionic](https://www.youtube.com/watch?v=A-4CLa05tp0)
 - [Your First Ionic App: Angular](https://ionicframework.com/docs/angular/your-first-app)
+- [Your First Ionic App: React](https://ionicframework.com/docs/react/your-first-app)
+- [Your First Ionic App: Vue](https://ionicframework.com/docs/vue/your-first-app)
 - [Read SMS in Ionic 4 apps](https://enappd.com/blog/automatically-read-sms-in-ionic-4-apps/42)
 - [Geolocation with Capacitor](https://capacitorjs.com/docs/apis/geolocation)
 
 - [Push Notifications with Firebase in Ionic](https://capacitorjs.com/docs/guides/push-notifications-firebase)
+- [The Push Notifications Guide](https://capgo.app/blog/ionic-capacitor-push-notifications-firebase/) - Integrate push notifications with Firebase on iOS and Android.
+- [Appcenter migration](https://capgo.app/blog/appcenter-migration) - Migrating from Microsoft App Center to Capgo in a few steps.
+- [Update app seamlessly](https://capgo.app/blog/update-your-capacitor-apps-seamlessly-using-capacitor-updater) - Set up live updates in your Ionic app.
+- [Ionic live update services](https://capgo.app/blog/best-ionic-live-update-service/) - Compare live update options for Ionic apps.
+- [Automatic build and release](https://capgo.app/blog/automatic-build-and-release-with-github-actions) - Create a CI/CD pipeline with GitHub Actions.
 - [Google Vision in Ionic 4 apps](https://enappd.com/blog/implement-google-vision-in-ionic-4/43)
 - [Add headless ButterCMS to your Ionic App by Mike Hartington](https://buttercms.com/blog/integrating-buttercms-with-ionic)
 
@@ -119,6 +144,9 @@ Ionic is an open-source mobile application framework that makes it easy to build
 - [Using An Oauth 2.0 Service Within An Ionic Mobile App](https://www.thepolyglotdeveloper.com/2016/01/using-an-oauth-2-0-service-within-an-ionic-2-mobile-app/)
 - [Ionic and Auth0](http://blog.ionic.io/ionic-2-and-auth0/)
 - [Authenticate Ionic with WordPress](https://auth0.com/authenticate/ionic2/wordpress)
+- [Social Login](https://capgo.app/blog/capacitor-social-login-release/) - Google, Apple, and Facebook sign-in with native flows.
+- [OAuth2 in 5 steps](https://capgo.app/blog/5-steps-to-implement-oauth2-in-capacitor-apps/) - Implement OAuth 2.0 with PKCE across iOS, Android, and the web.
+- [Secure token storage](https://capgo.app/blog/secure-token-storage-best-practices-for-mobile-developers/) - Store credentials and session tokens safely on device.
 
 ## Unit Testing
 - [How to Unit Test an Ionic Application](http://www.joshmorony.com/how-to-unit-test-an-ionic-2-application/)
@@ -224,6 +252,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 - [capacitor-navigation-bar](https://github.com/Cap-go/capacitor-navigation-bar) - Capacitor plugin to set the navigation bar color for Android Lollipop and higher.
 - [capacitor-network-diagnostics](https://github.com/Cap-go/capacitor-network-diagnostics) - Capacitor plugin for native network diagnostics.
 - [capacitor-nfc](https://github.com/Cap-go/capacitor-nfc) - Capacitor plugin allows you to read and write NFC tags. You can also beam to, and receive from, other NFC enabled devices.
+- [capacitor-notifications](https://github.com/Cap-go/capgo.app/tree/main/packages/capacitor-notifications) - Send native iOS and Android push notifications with user lookup, badges, and stats.
 - [capacitor-passkey](https://github.com/Cap-go/capacitor-passkey) - Capacitor passkey plugin with a WebAuthn-compatible shim for native apps.
 - [capacitor-patch](https://github.com/Cap-go/capacitor-patch) - Apply vetted Capgo patches during cap sync and cap update.
 - [capacitor-pay](https://github.com/Cap-go/capacitor-pay) - Capacitor plugin to trigger native payment for iOS(Apple pay) and Android(Google Pay).
@@ -259,6 +288,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 - [capacitor-supabase](https://github.com/Cap-go/capacitor-supabase) - Native Supabase authentication, JWT access, and basic database helpers for Capacitor.
 - [capacitor-textinteraction](https://github.com/Cap-go/capacitor-textinteraction) - Capacitor plugin to toggle text interaction in iOS apps.
 - [capacitor-transitions](https://github.com/Cap-go/capacitor-transitions) - Framework-agnostic page transitions for Capacitor apps. iOS-style navigation without opinions.
+- [capacitor-twilio-video](https://capgo.app/plugins/capacitor-twilio-video/) - Join Twilio Video rooms with native audio, camera, and room lifecycle events.
 - [capacitor-twilio-voice](https://github.com/Cap-go/capacitor-twilio-voice) - Capacitor plugin to create and answer calls with Twilio Voice SDK.
 - [capacitor-updater](https://github.com/Cap-go/capacitor-updater) - Capacitor plugin for Instant updates: Ship updates, fixes, changes, and features within minutes.
 - [capacitor-uploader](https://github.com/Cap-go/capacitor-uploader) - Capacitor plugin to upload file in native layer.
@@ -277,6 +307,9 @@ Ionic is an open-source mobile application framework that makes it easy to build
 - [capacitor-youtube-player](https://github.com/Cap-go/capacitor-youtube-player) - Capacitor plugin player to embed YouTube player controls in Capacitor apps.
 - [capacitor-zebra-datawedge](https://github.com/Cap-go/capacitor-zebra-datawedge) - Capacitor plugin for Zebra DataWedge profile management, notifications, queries, and soft scanning on Zebra Android devices.
 - [capacitor-zip](https://github.com/Cap-go/capacitor-zip) - Capacitor plugin for zipping and unzipping files on iOS, Android, and Web.
+- [cordova-updater](https://github.com/Cap-go/cordova-updater) - OTA live updates for Cordova iOS and Android with the same API as the updater plugin.
+- [electron-updater](https://github.com/Cap-go/electron-updater) - OTA live updates for Electron apps with the same API as the updater plugin.
+- [tauri-updater](https://github.com/Cap-go/tauri-updater) - OTA live updates for Tauri apps.
 
 ## Payment Gateway Integrations
 - [Stripe Payment Integration in Ionic](https://github.com/enappd/ionic4-stripe)
@@ -303,6 +336,18 @@ Ionic is an open-source mobile application framework that makes it easy to build
 - [Capgo Security Scanner](https://capgo.app/security-scanner/) - Scan your Capacitor app for security vulnerabilities.
 - [Capgo Semver Tester](https://capgo.app/semver_tester/) - Test semantic versioning compatibility for Capacitor plugins.
 - [AASA Tester](https://aasa-tester.capgo.app) - Test Apple App Site Association files for iOS Universal Links.
+- [CLI](https://github.com/Cap-go/CLI) - Upload and manage live update bundles and native cloud builds.
+- [Live Update Action](https://github.com/Cap-go/live-update-action) - GitHub Action to deploy a live update.
+- [Docker](https://github.com/Cap-go/docker-capacitor) - Image for building native apps.
+- [Native Builds](https://capgo.app/native-build/) - Compile and sign iOS and Android binaries in the cloud.
+- [Android Keystore Generator](https://capgo.app/tools/android-keystore-generator/) - Generate Android keystores for app signing in the browser.
+- [iOS Certificate Generator](https://capgo.app/tools/ios-certificate-generator/) - Generate iOS signing certificates in the browser.
+- [iOS UDID Finder](https://capgo.app/tools/ios-udid-finder/) - Find the UDID of an iPhone or iPad.
+- [Vite plugin](https://github.com/Cap-go/vite-capacitor) - Keep native platform configs in sync with the Vite dev server URL.
+- [n8n nodes](https://github.com/Cap-go/n8n-nodes-capgo) - Automate live updates and native builds from n8n workflows.
+- [Standard Version](https://github.com/Cap-go/standard-version-for-capacitor) - Automated versioning for apps.
+- [CI/CD pipeline setup](https://capgo.app/blog/capacitor-cicd-pipeline-setup-guide/) - Automate build, test, and live update deployment.
+- [OTA updates in CI/CD](https://capgo.app/blog/capacitor-ota-updates-cicd-integration-guide/) - Ship over-the-air updates from your pipeline.
 
 ## Video Tutorials
 - [Build a Todo App from Scratch with Ionic](http://www.joshmorony.com/build-a-todo-app-from-scratch-with-ionic-2-video-tutorial/)
@@ -311,6 +356,22 @@ Ionic is an open-source mobile application framework that makes it easy to build
 - [Hacking CSS in Ionic](https://www.youtube.com/watch?v=sXFmkdhOEVc)
 - [Learn Ionic 3 From Scratch](https://www.youtube.com/watch?v=JcEGTektejA&list=PLYxzS__5yYQng-XnJhB21Jc7NW1OIaqct)
 - [TutorialSearch](https://tutorialsearch.io/browse/mobile-development/ionic-framework) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
+- [Ionic & Capacitor for Building Native Mobile Apps](https://www.youtube.com/watch?v=K7ghUiXLef8) - Full beginner course by freeCodeCamp.
+- [From React Web to Native Mobile App](https://www.youtube.com/watch?v=IwHt_QpIa8A) - Simon Grimm.
+- [How to Build a Native App from Angular Projects](https://www.youtube.com/watch?v=V2Wn2JROUEo) - Simon Grimm.
+- [Building a Native Mobile App with Next.js](https://www.youtube.com/watch?v=xQKtDgJXrlM) - Simon Grimm.
+- [How To Create A Mobile App Using Vite, Vue and Ionic](https://www.youtube.com/watch?v=K_OwSHPxT-A) - Aaron Saunders.
+- [Building Modern Angular Apps with Ionic](https://www.youtube.com/watch?v=tbrJJkSYQ04) - Simon Grimm.
+- [How to Setup Deep Links (iOS & Android)](https://www.youtube.com/watch?v=tAQwllZSQD8) - Simon Grimm.
+
+## Convert a web app
+
+Tutorials that cover the path from an existing web app to a published mobile app.
+
+- [Transform a PWA into a native app](https://capgo.app/blog/transform-pwa-to-native-app-with-capacitor/) - Package a Progressive Web App for iOS and Android.
+- [Turn a web app into a mobile app](https://capgo.app/blog/how-easy-is-it-to-make-web-app-into-mobile-app-with-capacitor/) - What it takes to wrap a web app and pass store review.
+- [Convert a Lovable app to iOS and Android](https://capgo.app/blog/transform-lovable-dev-app-to-mobile-with-capacitor/) - Export from Lovable, wrap with Capacitor, and ship signed binaries.
+- [Build iOS apps from Windows](https://capgo.app/blog/build-ios-app-from-windows-capacitor-capgo-build/) - Compile, sign, and submit to TestFlight without a Mac.
 
 ## Books
 - [Building Mobile Apps with Ionic](https://www.joshmorony.com/building-mobile-apps-with-ionic-2/)
@@ -319,6 +380,9 @@ Ionic is an open-source mobile application framework that makes it easy to build
 
 ## Boilerplate/Demo Apps
 - [Ionic Official Starter Templates](https://github.com/ionic-team/starters)
+- [capacitor-updater-plugin-demo](https://github.com/Cap-go/demo-app) - Ionic Vue app demonstrating OTA updates.
+- [vue-data-storage-sqlite-app-starter](https://github.com/Cap-go/vue-data-storage-sqlite-app-starter) - Vue starter for SQLite key/value storage.
+- [react-data-storage-sqlite-app-starter](https://github.com/Cap-go/react-data-storage-sqlite-app-starter) - React starter for SQLite key/value storage.
 - [Ionic Boilerplate](https://github.com/marcoturi/ionic-boilerplate)
 - [Cordova File Transfer](https://github.com/dsgriffin/ionic-2-file-transfer-example)
 - [Update your App](https://github.com/NextFaze/ionic-manup)
@@ -444,6 +508,35 @@ Ionic is an open-source mobile application framework that makes it easy to build
 - [Ionic 4 Razorpay Payment Integration](https://github.com/enappd/ionic4-razorpay)
 - [Ionic 4 Facebook login with Firebase](https://github.com/enappd/ionic4-facebookAuth)
 - [Translation in Ionic 4 - Internationalization and localization](https://github.com/enappd/ionic4-i18n)
+
+## Apps built with Ionic
+
+Production apps whose use of Ionic is publicly documented.
+
+- [AAA](https://ionic.io/resources/case-studies/american-automobile-association) - Member services app of the American Automobile Association.
+- [BBC Games](https://ionic.io/resources/case-studies/bbc-games) - Children's games from the BBC.
+- [Bestinvest](https://ionic.io/resources/case-studies/bestinvest) - Investment platform wrapped for iOS and Android.
+- [Burger King](https://ionic.io/resources/articles/burger-king-design-system) - How Burger King brought their design system to mobile.
+- [DayClocks Agenda](https://ionic.io/resources/case-studies/dayclocks) - Family agenda app that moved from Cordova.
+- [Komed Health](https://ionic.io/resources/case-studies/komed) - Clinical communication app for hospitals.
+- [MyBlock](https://ionic.io/resources/case-studies/hrblock) - Tax preparation app by H&R Block.
+- [Spreekuur.nl](https://ionic.io/resources/case-studies/topicus) - Dutch healthcare consultation app by Topicus.
+- [YesHelp](https://ionic.io/resources/case-studies/yeshelp) - Social assistance app for iOS and Android.
+- [Ionic case studies](https://ionic.io/resources/case-studies) - More case studies published by the Ionic team.
+
+## Community
+
+- [Discord](https://ionic.link/discord) - Official Discord community.
+- [Forum](https://forum.ionicframework.com/) - Official Forum community.
+- [Reddit](https://www.reddit.com/r/ionic/) - Reddit community.
+- [Stack Overflow](https://stackoverflow.com/tags/ionic-framework) - Questions tagged ionic-framework.
+
+## Freelancers
+
+- [Adrien](https://book.capgo.app/adrien/) - Creator of Capstart and Capgo part-time developer.
+- [Jordan](https://book.capgo.app/jordan/) - Creator of multiple mobile apps and Capgo part-time developer.
+- [Capgo consulting](https://capgo.app/consulting/) - Live updates, native plugins, and Ionic/Capacitor consulting.
+
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
