@@ -80,7 +80,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 
 ## Capacitor
 
-Ionic apps ship with [Capacitor](https://capacitorjs.com/) as the native runtime.
+Ionic apps ship with Capacitor as the native runtime.
 
 - [Website](https://capacitorjs.com/) - Project homepage.
 - [Documentation](https://capacitorjs.com/docs) - Official docs.
@@ -527,8 +527,7 @@ Production apps whose use of Ionic is publicly documented.
 ## Community
 
 - [Discord](https://ionic.link/discord) - Official Discord community.
-- [Forum](https://forum.ionicframework.com/) - Official Forum community.
-- [Reddit](https://www.reddit.com/r/ionic/) - Reddit community.
+- [Reddit](https://www.reddit.com/r/ionic/) - Community discussions.
 - [Stack Overflow](https://stackoverflow.com/tags/ionic-framework) - Questions tagged ionic-framework.
 
 ## Freelancers
