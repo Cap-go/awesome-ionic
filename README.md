@@ -336,7 +336,7 @@ Ionic apps can use Capacitor as a native runtime.
 - [Capgo Security Scanner](https://capgo.app/security-scanner/) - Scan your Capacitor app for security vulnerabilities.
 - [Capgo Semver Tester](https://capgo.app/semver_tester/) - Test semantic versioning compatibility for Capacitor plugins.
 - [AASA Tester](https://aasa-tester.capgo.app) - Test Apple App Site Association files for iOS Universal Links.
-- [CLI](https://github.com/Cap-go/CLI) - Upload and manage live update bundles and native cloud builds.
+- [CLI](https://github.com/Cap-go/CLI) - Upload and manage live update bundles.
 - [Live Update Action](https://github.com/Cap-go/live-update-action) - GitHub Action to deploy a live update.
 - [Docker](https://github.com/Cap-go/docker-capacitor) - Image for building native apps.
 - [Native Builds](https://capgo.app/native-build/) - Compile and sign iOS and Android binaries in the cloud.
