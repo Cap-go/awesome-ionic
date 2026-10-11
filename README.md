@@ -332,7 +332,7 @@ Ionic apps can use Capacitor as a native runtime.
 - [Vim-ionic2](https://github.com/akz92/vim-ionic2)
 - [Capacitor safe area simulator](https://chromewebstore.google.com/detail/capacitor-safe-area-simul/ddaaodgcccedhjbjeollookhompnlfhi) - Chrome extension to simulate safe area in the browser, it support Ionic, Knsta UI and Tailwind Capacitor.
 - [Capstart](https://github.com/AdrienADV/capstart) - CLI and starter toolkit for creating Capacitor apps with React, Supabase, and shadcn/ui, or adding Capacitor to existing web framework projects.
-- [Capgo Skills](https://capgo.app/skills/) - Test your Ionic/Capacitor skills with interactive challenges.
+- [Capgo Skills](https://github.com/Cap-go/capgo-skills) - 55 open-source agent skills for Capacitor: plugins, Capacitor 9 and Xcode 27 upgrades, debugging, testing, live updates. Works with Claude Code, Cursor, Codex, and Gemini CLI.
 - [Capgo Security Scanner](https://capgo.app/security-scanner/) - Scan your Capacitor app for security vulnerabilities.
 - [Capgo Semver Tester](https://capgo.app/semver_tester/) - Test semantic versioning compatibility for Capacitor plugins.
 - [AASA Tester](https://aasa-tester.capgo.app) - Test Apple App Site Association files for iOS Universal Links.
