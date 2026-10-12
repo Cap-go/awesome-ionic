@@ -12,7 +12,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 <br/>
 </div>
 <p align='center'>
-  <img src='https://capgo.app/readme-banner.svg?repo=Cap-go/awesome-ionic' alt='Capgo - Instant updates for capacitor'/>
+  <img src='https://capgo.app/readme-banner.svg?repo=Cap-go/awesome-ionic' alt='Capgo - AI-ready platform to build, ship, and maintain Capacitor apps'/>
 </p>
 <div align="center">
   <h2><a href="https://capgo.app/?ref=awesomelist_ionic"> ➡️ Get Instant updates for your Capacitor App with Capgo 🚀</a></h2>
@@ -25,6 +25,7 @@ Ionic is an open-source mobile application framework that makes it easy to build
 - [Current Ionic version](#current-ionic-version)
 - [Official Resources](#official-resources)
 - [Capacitor](#capacitor)
+- [AI Coding Agents](#ai-coding-agents)
 - [Ionic Fundamentals](#ionic-fundamentals)
 - [Theming](#theming)
 - [Components tutorials](#components-tutorials)
@@ -90,6 +91,16 @@ Ionic apps can use Capacitor as a native runtime.
 - [Forum](https://forum.ionicframework.com/c/capacitor) - Capacitor category on the Ionic forum.
 - [Repository](https://github.com/ionic-team/capacitor) - Core runtime source.
 - [Awesome Capacitor](https://github.com/riderx/awesome-capacitor) - Curated Capacitor plugins, tools, and guides.
+
+## AI Coding Agents
+
+Resources for building, shipping, and maintaining Capacitor apps with AI coding agents such as Claude Code, Codex, Cursor, Copilot, and Gemini CLI.
+
+- [Capgo Skills](https://github.com/Cap-go/capgo-skills) - 55 open-source agent skills for Capacitor: plugins, Capacitor 9 and Xcode 27 upgrades, debugging, testing, live updates. Install with `npx skills add Cap-go/capgo-skills`.
+- [Capgo MCP server](https://capgo.app/docs/ai/mcp/) - Hosted MCP server at `https://api.capgo.app/mcp` to manage apps, bundles, channels, rollouts, and native builds from an agent.
+- [Capgo Cursor plugin](https://github.com/Cap-go/cursor-capgo-plugin) - Cursor plugin with Capacitor rules, Capgo CLI skills, and MCP servers to ship, live-update, and roll back apps.
+- [Capgo AI agent setup](https://capgo.app/agents/) - Guides to build, publish, live-update, and roll back Capacitor apps from Claude Code, Codex, Cursor, Copilot, and Gemini CLI.
+- [Best AI tools for Capacitor](https://capgo.app/best/ai-tools-for-capacitor/) - Comparison of AI coding agents, skills, and MCP servers for building Capacitor apps.
 
 ## Ionic Fundamentals
 - [Beginners Guide to Getting Started with Ionic](http://www.joshmorony.com/beginners-guide-to-getting-started-with-ionic-2/)
@@ -332,7 +343,6 @@ Ionic apps can use Capacitor as a native runtime.
 - [Vim-ionic2](https://github.com/akz92/vim-ionic2)
 - [Capacitor safe area simulator](https://chromewebstore.google.com/detail/capacitor-safe-area-simul/ddaaodgcccedhjbjeollookhompnlfhi) - Chrome extension to simulate safe area in the browser, it support Ionic, Knsta UI and Tailwind Capacitor.
 - [Capstart](https://github.com/AdrienADV/capstart) - CLI and starter toolkit for creating Capacitor apps with React, Supabase, and shadcn/ui, or adding Capacitor to existing web framework projects.
-- [Capgo Skills](https://github.com/Cap-go/capgo-skills) - 55 open-source agent skills for Capacitor: plugins, Capacitor 9 and Xcode 27 upgrades, debugging, testing, live updates. Works with Claude Code, Cursor, Codex, and Gemini CLI.
 - [Capgo Security Scanner](https://capgo.app/security-scanner/) - Scan your Capacitor app for security vulnerabilities.
 - [Capgo Semver Tester](https://capgo.app/semver_tester/) - Test semantic versioning compatibility for Capacitor plugins.
 - [AASA Tester](https://aasa-tester.capgo.app) - Test Apple App Site Association files for iOS Universal Links.
@@ -541,4 +551,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Author
 
-<a href="https://capgo.app/">Capgo — Live updates for capacitor</a>
+<a href="https://capgo.app/">Capgo — AI-ready platform to build, ship, and maintain Capacitor apps</a>
