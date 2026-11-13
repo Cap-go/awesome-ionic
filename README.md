@@ -162,6 +162,7 @@ Resources for building, shipping, and maintaining Capacitor apps with AI coding 
 ## Unit Testing
 - [How to Unit Test an Ionic Application](http://www.joshmorony.com/how-to-unit-test-an-ionic-2-application/)
 - [Test Driven Development in Ionic: An Introduction to TDD](https://www.joshmorony.com/test-driven-development-in-ionic-2-an-introduction-to-tdd/)
+- [Ionic Testing: Unit, End-to-End and Real Device Tests](https://www.testmuai.com/blog/ionic-testing/) - Guide to unit, end-to-end and real device testing for Ionic apps (by TestMu AI).
 
 ## Ionic Native / Cordova Plugins
 - [Playing music in Ionic 4 apps](https://enappd.com/blog/spotify-like-music-in-ionic-4-apps/48)
