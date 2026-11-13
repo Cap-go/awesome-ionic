@@ -356,6 +356,7 @@ Resources for building, shipping, and maintaining Capacitor apps with AI coding 
 - [Vite plugin](https://github.com/Cap-go/vite-capacitor) - Keep native platform configs in sync with the Vite dev server URL.
 - [n8n nodes](https://github.com/Cap-go/n8n-nodes-capgo) - Automate live updates and native builds from n8n workflows.
 - [Standard Version](https://github.com/Cap-go/standard-version-for-capacitor) - Automated versioning for apps.
+- [Apparent for Capacitor](https://github.com/AhmedAshour/apparent-sdks/tree/main/capacitor) - Analytics for Ionic apps without Firebase: screens from any router, events, purchases and JavaScript errors.
 - [CI/CD pipeline setup](https://capgo.app/blog/capacitor-cicd-pipeline-setup-guide/) - Automate build, test, and live update deployment.
 - [OTA updates in CI/CD](https://capgo.app/blog/capacitor-ota-updates-cicd-integration-guide/) - Ship over-the-air updates from your pipeline.
 
