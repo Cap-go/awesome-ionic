@@ -4,3 +4,7 @@ ignore:
     - https://www.npmjs.com/package/@ionic/angular
     - https://www.npmjs.com/package/@robsonos/ionic-mdi
     - https://www.reddit.com/r/ionic/
+delay:
+  # Space out YouTube requests. The workflow wraps restqa/404-links with bounded retries for remaining 429s.
+  # YouTube URLs are still checked, so a real 404 is still reported.
+  'https://www.youtube.com': 1500

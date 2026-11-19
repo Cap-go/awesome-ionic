@@ -12,6 +12,7 @@ on:
     branches: [main]
     paths:
       - 'README.md'
+      - '.404-links.yml'
 
 jobs:
   markdown-link-check:
@@ -29,6 +30,10 @@ jobs:
       - name: Awesome linter
         run: bunx awesome-lint
       - name: 'restqa-404-links'
-        uses: restqa/404-links@3.1.4
+        uses: Wandalen/wretry.action@v3.5.0
+        with:
+          action: restqa/404-links@3.1.4
+          attempt_limit: 3
+          attempt_delay: 60000
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
