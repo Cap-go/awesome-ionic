@@ -12,6 +12,7 @@ on:
     branches: [main]
     paths:
       - 'README.md'
+      - '.404-links.yml'
 
 jobs:
   markdown-link-check:
